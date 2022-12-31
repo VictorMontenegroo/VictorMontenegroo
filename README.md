@@ -1,4 +1,4 @@
-### Ola meu nome é Victor, sou estudante de Front-end 👋
+### Ola, tudo bem? meu nome é Victor, sou estudante de Front-end 👋
 <br>
 <br>
 <div>
